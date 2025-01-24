@@ -1,5 +1,5 @@
-## Master's Student
-## Aspiring Developer
+Master's Student
+Aspiring Developer
 
 <!--
 **GrantCanty/GrantCanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
