@@ -1,4 +1,4 @@
-AI Master's Student <br>
+Master's Student in AI <br>
 Aspiring Developer
 
 <!--
